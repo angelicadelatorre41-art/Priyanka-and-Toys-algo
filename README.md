@@ -1,1 +1,1 @@
-# Priyanka-and-Toys-algo
+# Priyanka-and-Toys-algo The program sorts the toy weights and groups them into the minimum number of containers, where each container can hold toys with weights within a range of 4 units. It starts with the smallest toy and adds a new container whenever a toy exceeds that range.
